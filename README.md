@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasu-kun
-- 👀 I’m interested in Machine Learning.
+- 👀 I’m interested in Cyber-Physical System and Machine Learning.
 - 🏠 My HP : https://www.yasuhiro-iuchi.com
 <!---
 yasu-kun/yasu-kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
