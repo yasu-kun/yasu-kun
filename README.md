@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yasu-kun
 - 👀 I’m interested in Cyber-Physical System and Machine Learning.
 - 🏠 My HP : https://www.yasuhiro-iuchi.com
-
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasu-kun)
-
+--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasu-kun&layout=compact)
 
 
